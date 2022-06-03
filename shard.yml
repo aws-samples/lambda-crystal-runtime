@@ -1,0 +1,10 @@
+name: lambda_runtime
+version: 0.1.0
+
+authors:
+  - Taichiro Suzuki <taichirs@amazon.co.jp>
+
+description: |
+  Custom lambda runtime for Crystal
+
+license: MIT-0
