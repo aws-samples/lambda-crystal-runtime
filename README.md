@@ -2,6 +2,7 @@
 
 We will show you how to use AWS Lambda's [Custom Runtime](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-custom.html) feature to execute [Crystal](https://crystal-lang.org/)'s code.
 This project can be utilized as a library, but we recommend that you do **NOT** use it for production workloads as it is only sample code.
+Check [lambda-crystal-runtime-example](https://github.com/tbrand/lambda-crystal-runtime-example) to know how to implement the runtime.
 
 ## Step-by-Step Guide
 
